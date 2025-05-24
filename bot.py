@@ -1,7 +1,6 @@
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import ApplicationBuilder, CommandHandler, CallbackQueryHandler, ContextTypes
 
-# Пример товаров
 products = {
     "Nike": "Кроссовки Nike - стильные и удобные.",
     "Adidas": "Кроссовки Adidas - качество и комфорт.",
