@@ -1,4 +1,4 @@
-# AdjShopp Telegram Bot
+# AdjShopBot Telegram Bot
 
 Это Telegram-бот, который представляет каталог обуви — Nike, Adidas, Puma и другие бренды.
 
